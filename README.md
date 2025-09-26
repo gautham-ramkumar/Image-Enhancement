@@ -13,16 +13,18 @@ This project implements a novel, two-stage deep learning pipeline for robust low
 <img width="1701" height="469" alt="image" src="https://github.com/user-attachments/assets/5aca0e35-df75-4715-a725-fe8a731a2cc9" />
 
 ## Setup and Installation:
-Clone the repository:
 ```bash
+# Clone the repository
 git clone https://github.com/gautham-ramkumar/Image-Enhancement.git
 cd Image-Enhancement
 
-3. Create and activate a virtual environment
-python3 -m venv (your venv name)
+# Create and activate a virtual environment
+python3 -m venv venv
+# Source the environment
+source venv/bin/activate
 
-source (your venv name)/bin/activate
-
-3. Install required packages
+# Install required packages
 pip3 install -r requirements.txt
+```
 
+## 
