@@ -40,6 +40,7 @@ python3 test.py
 ```
 Enhanced images will be saved to the ```final_test_outputs/``` directory.
 
+## Directory Tree
 
 ├── Papers
 │   ├── LIVENet.pdf
@@ -51,22 +52,4 @@ Enhanced images will be saved to the ```final_test_outputs/``` directory.
 │   ├── test.py
 │   └── train.py
 └── test_outputs
-    ├── 111.png
-    ├── 146.png
-    ├── 179.png
-    ├── 1.png
-    ├── 22.png
-    ├── 23.png
-    ├── 493.png
-    ├── 547.png
-    ├── 55.png
-    ├── 665.png
-    ├── 669.png
-    ├── 748.png
-    ├── 778.png
-    ├── 780.png
-    ├── 79.png
-    ├── Training_results1.png
-    ├── Training_results2.png
-    └── Training_results3.png
 
