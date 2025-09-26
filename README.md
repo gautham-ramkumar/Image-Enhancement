@@ -27,4 +27,6 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-## 
+## Training and testing
+To train model, Run following command from ```bash/src''' directory.
+
