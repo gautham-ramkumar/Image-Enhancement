@@ -6,3 +6,6 @@ This project implements a novel, two-stage deep learning pipeline for robust low
 - Simultaneous Denoising & Enhancement: A single, unified U-Net model learns to both clean noise and improve lighting at the same time.
 - Hybrid Architecture: Fuses Zero-DCE's curve estimation enhancement with LIVENet's supervised, multi-task training strategy.
 - Two-Stage Training: Employs a robust training methodology where a denoiser is pre-trained and then frozen, allowing the enhancement network to be trained for optimal quality.
+
+## Results
+<img width="1701" height="469" alt="image" src="https://github.com/user-attachments/assets/2ebcb1a6-17ef-4e51-9790-c933e7d48a96" />
