@@ -14,7 +14,7 @@ This project implements a novel, two-stage deep learning pipeline for robust low
 
 ## Setup and Installation:
 Clone the repository:
-'''bash
+```bash
 git clone https://github.com/gautham-ramkumar/Image-Enhancement.git
 cd Image-Enhancement
 
