@@ -42,13 +42,14 @@ Enhanced images will be saved to the ```final_test_outputs/``` directory.
 
 ## Project Structure
 
-Papers/
-├── LIVEnet.pdf
-├── Zero-DCE.pdf
-src/
-├── dataloader.py
-├── losses.py
-├── model.py
-├── test.py
-├── train.py
-└── test_outputs/
+    Papers/
+    ├── LIVEnet.pdf
+    ├── Zero-DCE.pdf
+    src/
+    ├── dataloader.py
+    ├── losses.py
+    ├── model.py
+    ├── test.py
+    ├── train.py
+    └── test_outputs/
+
