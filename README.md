@@ -28,5 +28,14 @@ pip3 install -r requirements.txt
 ```
 
 ## Training and testing
-To train model, Run following command from ```/src``` directory.
+To train the model, Run following command from ```/src``` directory.
+```bash
+python3 train.py
+```
+This will train for 100 epochs and save the best-performing model weights. 
 
+To test the model, Run following command from ```/src``` directory.
+```bash
+python3 test.py
+```
+Enhanced images will be saved to the ```final_test_outputs/``` directory.
