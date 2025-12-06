@@ -9,8 +9,8 @@ This project implements a novel, two-stage deep learning pipeline for robust low
 
 ## Results
 <img width="1701" height="469" alt="image" src="test_outputs/493.png" />
-<img width="1701" height="469" alt="image" src="https://github.com/user-attachments/assets/e715d0ce-8282-4954-b787-bfe213d5feb3" />
-<img width="1701" height="469" alt="image" src="https://github.com/user-attachments/assets/5aca0e35-df75-4715-a725-fe8a731a2cc9" />
+<img width="1701" height="469" alt="image" src="test_outputs/22.png" />
+<img width="1701" height="469" alt="image" src="test_outputs/778.png" />
 
 ## Setup and Installation:
 ```bash
